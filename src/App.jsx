@@ -24,19 +24,19 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
+  name: "Thabo Makhele",
   title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  email: "ask@thabomakhele.co.za",
+  gitHub: "cyberdemigod",
+  instagram: "t_makhele",
+  linkedIn: "Thabo Makhele",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "t_makhele",
+  youTube: "Thabo Makhele",
 };
 
-const primaryColor = "#4E567E";
-const secondaryColor = "#D2F1E4";
+const primaryColor = "#2D2F31";
+const secondaryColor = "#FCBA3B";
 
 const App = () => {
   return (
